@@ -1,7 +1,7 @@
 - Olá, Me chamo Pedro Lucas Vargas
 - Estou sempre em busca de novos conhecimentos.
 - 📫 Endereço de email: Pedrolvargas10@gmail.com
-- Fiquem á vontade"
+- "Fiquem á vontade"
 
 
 
