@@ -1,4 +1,4 @@
-- Olá, Me chamo Pedro Vargas
+- Olá, me chamo Pedro Vargas
 - Bacharel Engenharia de Software (cursando)
 - Estou colaborando minha jornada Dev e todos meu estudos de computação.
 - 📫 Endereço de email: Pedrolvargas10@gmail.com
