@@ -1,5 +1,5 @@
 - Olá, Me chamo Pedro Vargas
-- Cursando Engenharia de Software
+- Bacharel Engenharia de Software (cursando)
 - Estou colaborando minha jornada Dev e todos meu estudos de computação.
 - 📫 Endereço de email: Pedrolvargas10@gmail.com
   
