@@ -1,7 +1,8 @@
-- Olá, Me chamo Pedro Lucas Vargas
-- Estou sempre em busca de novos conhecimentos.
+- Olá, Me chamo Pedro Vargas
+- Cursando Engenharia de Software
+- Estou colaborando minha jornada Dev e todos meu estudos de computação.
 - 📫 Endereço de email: Pedrolvargas10@gmail.com
-- "Fiquem á vontade"
+  
 
 
 
